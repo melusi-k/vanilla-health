@@ -1,0 +1,2 @@
+# vanilla-health
+Health data is essential for medicine in the work of saving lives. Medical records provide vital information about the patients’ physical situation. We file these records disorganized, usually on a piece of paper. This information is also private. Medical confidentiality is people’s right. When the doctor consults the patient, they transmit the information from memory. Data communication is inaccurate. The professional has only time to read the latest tests if the patient remembered to take them.
